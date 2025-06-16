@@ -21,6 +21,10 @@ p {
     line-height: 1.4em;
 }
 
+table, th, td {
+    border: 1px solid;
+}
+
 #blog {
     border-top: 1px dotted #ccc;
 }
