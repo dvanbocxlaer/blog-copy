@@ -23,9 +23,6 @@ p {
 
 table, th, td {
     border: 1px solid;
-}
-
-th, td {
     padding: 15px;
 }
 
