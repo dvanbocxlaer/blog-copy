@@ -2,6 +2,10 @@ html {
     background: #98c1d9;
 }
 
+header {
+    overflow: clip;
+}
+
 nav {
     background-color: #98c1d9;
     color: #293241;
@@ -17,8 +21,6 @@ body {
     color: #293241;
     border-top: 10px solid #293241;
     background: #e0fbfc;
-    overflow: clip;
-
 }
 
 h1 {
