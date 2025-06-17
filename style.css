@@ -1,14 +1,14 @@
 html {
-    background: #e3e3e3;
+    background: #98c1d9;
 }
 
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 40px;
     padding: 40px;
-    color: #242424;
-    border-top: 10px solid #242424;
-    background: #fff;
+    color: #293241;
+    border-top: 10px solid #293241;
+    background: #e0fbfc;
 
 }
 
@@ -35,9 +35,9 @@ td {
 }
 
 #blog {
-    border-top: 1px dotted #ccc;
+    border-top: 1px dotted #3d5a80;
 }
 
 .blog-post {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #3d5a80;
 }
