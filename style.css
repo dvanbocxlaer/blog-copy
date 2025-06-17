@@ -2,11 +2,7 @@ html {
     background: #98c1d9;
 }
 
-header {
-    overflow: clip;
-}
-
-nav {
+.sticky {
     background-color: #98c1d9;
     color: #293241;
     position: -webkit-sticky;
