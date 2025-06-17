@@ -23,6 +23,7 @@ p {
 
 table, th, td {
     border: 1px solid;
+    border-color: #3d5a80;
     padding: 15px;
 }
 
