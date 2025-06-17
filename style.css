@@ -5,6 +5,7 @@ html {
 header {
     background-color: #98c1d9;
     color: #293241;
+    list-style-position: inside;
     text-align: center;
     position: sticky;
     top: 0;
