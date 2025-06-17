@@ -5,6 +5,7 @@ html {
 header {
     background-color: #98c1d9;
     color: #293241;
+    text-align: center;
     position: sticky;
     top: 0;
     padding: 15px;
